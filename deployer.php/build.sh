@@ -1,1 +1,1 @@
-docker build -t akayumeru/php-deployer -f ./Dockerfile ./
+docker build -t akayumeru/deployer.php -f ./Dockerfile ./
